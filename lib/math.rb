@@ -30,6 +30,6 @@ end
 
 def square_root(num)
   puts Math.sqrt#{num}
-  sum = Math.sqrt(num)**2
+  sum = Math.sqrt(num)
   sum
 end
