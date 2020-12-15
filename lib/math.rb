@@ -28,17 +28,10 @@ def modulo(num1, num2)
  sum
 end
 
+class Math
+
 def square_root(num)
   puts Math.sqrt#{num}
   sum = Math.sqrt(num)**2
   sum
-end
-
-def Math
-  addition(5,4)
-  subtraction(10,5)
-  division(50,2)
-  multiplication(4,30)
-  modulo(34,5)
-  square_root(81)
 end
